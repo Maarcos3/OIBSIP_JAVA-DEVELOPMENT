@@ -9,7 +9,6 @@ class Acc {
     private int t = 0;
     private StringBuilder transactionHistory = new StringBuilder();
 
-    // Getter method for name
     public String getName() {
         return name;
     }
